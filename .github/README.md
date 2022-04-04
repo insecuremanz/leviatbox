@@ -56,7 +56,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🚀 Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg) (https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/insecuremanz/leviatbox)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/insecuremanz/leviatbox)
 
 
 
